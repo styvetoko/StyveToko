@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub 👋
 
-<!--
-**styvetoko/StyveToko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **Styve TOKO**, développeur, Data Scientiste,  et entrepreneur basé à Douala, Cameroun. Passionné par l'intelligence artificielle et les nouvelles technologies, je m'engage à innover pour transformer l'Afrique grâce à la digitalisation.
 
-Here are some ideas to get you started:
+## 🌟 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **Spécialisations** : Génie logiciel, Data Science, IA, solutions technologiques innovantes
+- 🚀 **Projets en cours** : Application de billetterie et plateforme de vote en ligne
+- 💼 **DGO, cofondateur chez INTERACT** et SG de l'association JSE
+- 📫 **Me contacter** : styvetoko1999@gmail.com
+
+## 🚀 Mes compétences techniques
+
+- **Langages** : Python, JavaScript, HTML/CSS
+- **Frameworks** : Angular, Django
+- **Autres outils** : Git, Docker
+
+---
+
+**🌐 Découvre mes projets ci-dessous !**
