@@ -4,11 +4,11 @@
 
 ## À propos de moi
 
-Je suis **Styve Toko**, un passionné de technologie, développeur logiciel et entrepreneur africain, basé à Douala, Cameroun. Depuis mon plus jeune âge, j’ai toujours été fasciné par le pouvoir de l'informatique et son potentiel à transformer la société. Aujourd'hui, mon objectif est clair : utiliser mes compétences pour résoudre des problèmes complexes et impacter positivement la société, particulièrement en Afrique, grâce à la technologie et à l'intelligence artificielle.
+Je suis **Styve Toko**, un passionné de technologie, développeur logiciel et jeune entrepreneur africain, basé à Douala, Cameroun. Depuis mon plus jeune âge, j’ai toujours été fasciné par le pouvoir de l'informatique et son potentiel à transformer la société. Aujourd'hui, mon objectif est clair : utiliser mes compétences pour résoudre des problèmes complexes et impacter positivement la société, particulièrement en Afrique, grâce à la technologie et à l'intelligence artificielle.
 
 Titulaire d'un **Baccalaureat scientifique, d'une Licence en Genie Logiciel** et actuellement etudiant en **Data Science**,  Mon parcours académique et professionnel m’a permis d’acquérir une solide expérience dans plusieurs domaines technologiques, notamment le développement d’applications web, l'intelligence artificielle, ainsi que l'optimisation des systèmes à grande échelle. Je crois fermement que la technologie est la clé pour résoudre de nombreux défis sociaux, économiques et environnementaux. C’est pourquoi je m'engage activement à contribuer à l'essor de l'Afrique en tant que leader mondial en innovation.
 
-- **Origine :** Douala, Cameroun
+- **Origine :** Camerounais
 - **Langues parlées :** Français (natif), Anglais (intermédiaire)
 - **Profession :** Développeur, Etudiant en Data Science, Entrepreneur Social ( co-fondateur de la startup **INTERACT**, membre actif et SG de l'association **Jeunes Socials et Entrepreneur (Y.S.E)**
 - **Centres d’intérêt :** Nouvelles technologies, Intelligence Artificielle, Blockchain, Développement durable, Culture et Spiritualité africaine.
