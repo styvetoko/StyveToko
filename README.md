@@ -1,8 +1,8 @@
 # 👋 Salut, je suis 
 
-#**StyveToko (Styveβ)**    
+## **StyveToko (Styveβ)**    
 
-# 👋 Bienvenue sur mon GitHub!
+#  Bienvenue sur mon GitHub!
 
 ## À propos de moi
 
