@@ -3,7 +3,6 @@
 #  Bienvenue sur mon GitHub!
 
 ## À propos de moi
-
 Je suis **Styve Toko**, un passionné de technologie, développeur logiciel et jeune entrepreneur africain, basé à Douala, Cameroun. Depuis mon plus jeune âge, j’ai toujours été fasciné par le pouvoir de l'informatique et son potentiel à transformer la société. Aujourd'hui, mon objectif est clair : utiliser mes compétences pour résoudre des problèmes complexes et impacter positivement la société, particulièrement en Afrique, grâce à la technologie et à l'intelligence artificielle.
 
 Titulaire d'un **Baccalaureat scientifique, d'une Licence en Genie Logiciel** et actuellement etudiant en **Data Science**,  Mon parcours académique et professionnel m’a permis d’acquérir une solide expérience dans plusieurs domaines technologiques, notamment le développement d’applications web, l'intelligence artificielle, ainsi que l'optimisation des systèmes à grande échelle. Je crois fermement que la technologie est la clé pour résoudre de nombreux défis sociaux, économiques et environnementaux. C’est pourquoi je m'engage activement à contribuer à l'essor de l'Afrique en tant que leader mondial en innovation.
@@ -33,6 +32,27 @@ Une plateforme pour la gestion des événements et la réservation en ligne. Mon
 
 ### 🗳️ [Application de Vote en Ligne](https://github.com/styvetoko/application-vote)
 Une solution sécurisée pour la mise en place d'élections numériques, garantissant la transparence et l’intégrité des résultats.
+
+## 🌟 Statistiques GitHub
+
+<p align="center">
+  <a href="https://github.com/styvetoko">
+    <img src="https://github-readme-stats.vercel.app/api?username=styvetoko&show_icons=true&theme=radical" alt="Statistiques GitHub de Styve Toko" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/styvetoko">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=styvetoko&theme=radical" alt="GitHub Streak de Styve Toko" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/styvetoko">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=styvetoko&layout=compact&langs_count=8&theme=radical" alt="Langages les plus utilisés par Styve Toko" />
+  </a>
+</p>
+
 
 ## 📫 Comment me contacter
 Je suis toujours ouvert aux collaborations et aux opportunités d’apprendre. N’hésitez pas à me contacter à travers les moyens suivants :
