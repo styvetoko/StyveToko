@@ -45,7 +45,7 @@ Une solution sécurisée pour la mise en place d'élections numériques, garanti
 ### 🔥 Mon Streak de Contributions
 <p align="center">
   <a href="https://github.com/styvetoko">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=styvetoko&theme=radical" alt="GitHub Streak de Styve Toko" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=styvetoko&theme=radical&hide_border=true" alt="GitHub Streak de Styve Toko" />
   </a>
 </p>
 
