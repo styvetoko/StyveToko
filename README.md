@@ -33,23 +33,39 @@ Une plateforme pour la gestion des événements et la réservation en ligne. Mon
 ### 🗳️ [Application de Vote en Ligne](https://github.com/styvetoko/application-vote)
 Une solution sécurisée pour la mise en place d'élections numériques, garantissant la transparence et l’intégrité des résultats.
 
-## 🌟 Statistiques GitHub
+## 🌟 Mes Statistiques GitHub
 
+### 📊 Statistiques GitHub Générales
 <p align="center">
   <a href="https://github.com/styvetoko">
     <img src="https://github-readme-stats.vercel.app/api?username=styvetoko&show_icons=true&theme=radical" alt="Statistiques GitHub de Styve Toko" />
   </a>
 </p>
 
+### 🔥 Mon Streak de Contributions
 <p align="center">
   <a href="https://github.com/styvetoko">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=styvetoko&theme=radical" alt="GitHub Streak de Styve Toko" />
   </a>
 </p>
 
+### 💻 Langages les Plus Utilisés
 <p align="center">
   <a href="https://github.com/styvetoko">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=styvetoko&layout=compact&langs_count=8&theme=radical" alt="Langages les plus utilisés par Styve Toko" />
+  </a>
+</p>
+
+### 🕒 Mes Statistiques de Temps de Codage (WakaTime)
+<p align="center">
+  <a href="https://wakatime.com/@styvetoko">
+    <img src="https://wakatime.com/badge/user/styvetoko.svg" alt="WakaTime Badge pour Styve Toko" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@styvetoko">
+    <img src="https://wakatime.com/share/@styvetoko/your-custom-wakatime-stats-image-url" alt="WakaTime Graphique" />
   </a>
 </p>
 
