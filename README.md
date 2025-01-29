@@ -60,6 +60,7 @@ Une solution sécurisée pour la mise en place d'élections numériques, garanti
 <p align="center">
   <a href="https://wakatime.com/@styvetoko">
     <img src="https://wakatime.com/badge/user/styvetoko.svg" alt="WakaTime Badge pour Styve Toko" />
+    ![WakaTime Badge](https://wakatime.com/badge/user/styvetoko.svg)
   </a>
 </p>
 
