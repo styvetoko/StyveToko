@@ -57,13 +57,16 @@ Une solution sécurisée pour la mise en place d'élections numériques, garanti
 </p>
 
 
-### 📊 Mes statistiques WakaTime
-![WakaTime Badge](https://wakatime.com/badge/user/TON_USER_ID.svg)
-
+### 🕒 Mes Statistiques de Temps de Codage (WakaTime)
+<p align="center">
+  <a href="https://wakatime.com/@styvetoko">
+    <img src="https://wakatime.com/badge/user/styvetoko.svg" alt="WakaTime Badge pour Styve Toko" />
+    ![WakaTime Badge](https://wakatime.com/badge/user/styvetoko.svg)
+  </a>
+</p>
 ⏳ **Weekly Coding Stats**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 
 <p align="center">
