@@ -56,6 +56,7 @@ Une solution sécurisée pour la mise en place d'élections numériques, garanti
   </a>
 </p>
 
+
 ### 🕒 Mes Statistiques de Temps de Codage (WakaTime)
 <p align="center">
   <a href="https://wakatime.com/@styvetoko">
@@ -63,6 +64,9 @@ Une solution sécurisée pour la mise en place d'élections numériques, garanti
     ![WakaTime Badge](https://wakatime.com/badge/user/styvetoko.svg)
   </a>
 </p>
+⏳ **Weekly Coding Stats**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <a href="https://wakatime.com/@styvetoko">
